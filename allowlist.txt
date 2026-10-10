@@ -1,0 +1,23 @@
+! Personal DNS Allowlist - from NextDNS and requested additions
+! Naver: pstatic.net covers searchad-phinf.pstatic.net and ad-creative.pstatic.net
+@@||s.search.naver.com^
+@@||buzzvil.com^
+@@||tkqlhce.com^
+@@||inapps.appsflyer.com^
+@@||launches.appsflyer.com^
+@@||adplatform-cdn.baemin.com^
+@@||weblog.woowa.in^
+@@||img.pay.naver.net^
+@@||pstatic.net^
+@@||stat.tiara.kakao.com^
+@@||place.map.kakao.com^
+@@||adcr.naver.com^
+@@||s.ppomppu.co.kr^
+@@||linkprice.com^
+@@||ma.news.naver.com^
+@@||s.youtube.com^
+@@||onelink.me^
+
+! Additional requested allow entries (exact requested hostname spelling)
+@@||s.cli1ck.aliexpress.com^
+@@||dcdraw.ddns.net^

@@ -1,0 +1,14 @@
+! Personal DNS Blocklist - from NextDNS (deduplicated against Gallery)
+! Apple: MDM and enrollment
+||iprofiles.apple.com^$important
+||mdmenrollment.apple.com^$important
+||deviceenrollment.apple.com^$important
+
+! Apple: Software Update lookup
+||gdmf.apple.com^$important
+||mesu.apple.com^$important
+
+! Kakao: additional blocks not present in Gallery
+||shopper.kakao.com^
+||play.kakao.com^
+||ik.kakaocdn.net^
