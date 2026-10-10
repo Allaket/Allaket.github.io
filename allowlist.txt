@@ -19,5 +19,5 @@
 @@||onelink.me^
 
 ! Additional requested allow entries (exact requested hostname spelling)
-@@||s.cli1ck.aliexpress.com^
+@@||s.click.aliexpress.com^
 @@||dcdraw.ddns.net^
